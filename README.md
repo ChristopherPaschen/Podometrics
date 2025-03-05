@@ -1,4 +1,4 @@
-This repository comprises the scripts utilized for the manuscript entitled "Podometrics in Individuals with Diabetes and Hypertension."
+This repository comprises the scripts utilized for the manuscript entitled "The Association of Podometrics Findings in Persons with Hypertension and Type 2 Diabetes: A Retrospective Analysis."
 
 For glomeruli segmentation, we employed the NoCodeSeg method alongside scripts published by Pettersen et al. (https://doi.org/10.3389/fmed.2021.816281; https://github.com/andreped/NoCodeSeg). Specifically, the script "1_exportTiles_with_annotations" was used to export tiles and ground truth files for training our segmentation model, while "2_exportTiles_empty" was employed to export empty tiles for predictions.
 
